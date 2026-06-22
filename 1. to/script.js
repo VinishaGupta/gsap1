@@ -33,3 +33,18 @@
 // )
 
 
+// Exercise 3 — Rotate + move 🔄
+
+// Make the box:
+
+// move right 500px
+// rotate 2 full circles
+// take 2 seconds
+
+// gsap.to(".box",
+//    {
+//     x:500,
+//     rotation:720,
+//     duration:2
+//    } 
+// )

@@ -48,3 +48,27 @@
 //     duration:2
 //    } 
 // )
+
+// Exercise 4 — Grow bigger 📦
+
+// Animate:
+
+// Normal:
+
+// ⬛
+
+// After animation:
+
+// ⬛⬛
+// ⬛⬛
+
+// Use:
+
+// scale:
+
+
+gsap.to(".box",
+    {
+        scale:3
+    }
+)

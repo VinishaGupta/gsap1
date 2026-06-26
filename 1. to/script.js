@@ -67,8 +67,23 @@
 // scale:
 
 
+// gsap.to(".box",
+//     {
+//         scale:3
+//     }
+// )
+
+// Exercise 5 — Disappear 👻
+
+// Make box slowly disappear in 4 seconds.
+
+// Learn:
+
+// opacity:
+
 gsap.to(".box",
     {
-        scale:3
+        opacity:0,
+        duration:4
     }
 )

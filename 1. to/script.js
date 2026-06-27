@@ -212,3 +212,12 @@
 // all move
 // all rotate
 // all grow
+
+gsap.to(".box",
+    {
+        x:500,
+        rotate:360,
+        scale:1.5,
+        duration:2
+    }
+)

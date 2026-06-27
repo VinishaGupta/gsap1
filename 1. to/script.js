@@ -128,10 +128,10 @@
 
 // delay:
 
-gsap.to(".box", 
-    {
-        delay:2,
-        x:500,
-        rotate:720
-    }
-)
+// gsap.to(".box", 
+//     {
+//         delay:2,
+//         x:500,
+//         rotate:720
+//     }
+// )

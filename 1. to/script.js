@@ -99,15 +99,16 @@
 // become 2x bigger
 // fade halfway
 
-// All in ONE gsap.to().
+// // All in ONE gsap.to().
 
-gsap.to(".box",
-    {
-        x:500,
-        y:200,
-        rotation:360,
-        scale:2,
-        opacity:0.5,
-        duration:5
-    }
-)
+// gsap.to(".box",
+//     {
+//         x:500,
+//         y:200,
+//         rotation:360,
+//         scale:2,
+//         opacity:0.5,
+//         duration:5
+//     }
+// )
+

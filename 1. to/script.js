@@ -187,7 +187,7 @@
 gsap.to(".box",
     {
         y:400,
-        ease:"bounce"
-        
+        ease:"bounce",
+        duration:3
     }
 )

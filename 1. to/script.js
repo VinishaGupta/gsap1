@@ -184,10 +184,10 @@
 
 // ease:"bounce"
 
-gsap.to(".box",
-    {
-        y:400,
-        ease:"bounce",
-        duration:3
-    }
-)
+// gsap.to(".box",
+//     {
+//         y:400,
+//         ease:"bounce",
+//         duration:3
+//     }
+// )

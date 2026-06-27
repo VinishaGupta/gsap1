@@ -183,3 +183,11 @@
 // Try:
 
 // ease:"bounce"
+
+gsap.to(".box",
+    {
+        y:400,
+        ease:"bounce"
+        
+    }
+)

@@ -81,9 +81,33 @@
 
 // opacity:
 
+// gsap.to(".box",
+//     {
+//         opacity:0,
+//         duration:4
+//     }
+// )
+
+
+// Exercise 6 — Combine everything 🔥
+
+// Make the box:
+
+// move right 500px
+// move down 200px
+// rotate once
+// become 2x bigger
+// fade halfway
+
+// All in ONE gsap.to().
+
 gsap.to(".box",
     {
-        opacity:0,
-        duration:4
+        x:500,
+        y:200,
+        rotation:360,
+        scale:2,
+        opacity:0.5,
+        duration:5
     }
 )

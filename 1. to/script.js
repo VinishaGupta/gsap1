@@ -157,3 +157,29 @@
 //         repeat:-1
 //     }
 // )
+
+
+
+// Exercise 9 — Bouncing ball 🏀
+
+// CSS:
+
+// .ball{
+//     height:80px;
+//     width:80px;
+//     border-radius:50%;
+//     background:red;
+// }
+
+// Make it:
+
+// fall down 400px
+// bounce effect
+
+// Learn:
+
+// ease:
+
+// Try:
+
+// ease:"bounce"

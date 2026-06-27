@@ -112,3 +112,26 @@
 //     }
 // )
 
+
+
+// Exercise 7 — Delay ⏰
+
+// Wait 2 seconds before animation starts.
+
+// Expected:
+
+// (wait...)
+// 2 sec later
+// box moves
+
+// Learn:
+
+// delay:
+
+gsap.to(".box", 
+    {
+        delay:2,
+        x:500,
+        rotate:720
+    }
+)

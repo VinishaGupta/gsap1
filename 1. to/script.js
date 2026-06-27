@@ -135,3 +135,17 @@
 //         rotate:720
 //     }
 // )
+
+// Exercise 8 — Infinite animation ♾️
+
+// Make box move left-right forever.
+
+// Learn:
+
+// repeat:
+// yoyo:
+
+// Goal:
+
+// 🟪 → → → 
+//      ← ← ← 🟪
